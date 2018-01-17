@@ -16,7 +16,7 @@ public class SadMood extends Mood {
     }
 
     @Override
-    public String getMood() {
+    public String printMood() {
         return "Sad";
     }
 }
